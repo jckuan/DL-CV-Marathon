@@ -19,8 +19,7 @@
  - Day14: Batch Normalization
  - Day15: CNN for CIFAR-10
  - Day16: Data Augmentation
- - Day17: VGG16
- - Day18: 
+ - Day17&18: VGG16
  - Day19: 
  - Day20: 
 
