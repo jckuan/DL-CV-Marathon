@@ -4,7 +4,7 @@ This repository keeps track of my progress in "Deep Learning in Computer Vision"
 # Contents
 ## Image Processing 101
 
- - Day01: Intro
+ - Day01: [Intro](Homework/Day01.ipynb)
  - Day02: Intro
  - Day03: Basic Image Processing
  - Day04: Affine Transformation
