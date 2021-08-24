@@ -20,6 +20,6 @@
  - Day15: CNN for CIFAR-10
  - Day16: Data Augmentation
  - Day17&18: VGG16
- - Day19: 
+ - Day19: Inception
  - Day20: 
 
