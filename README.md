@@ -24,5 +24,5 @@ This repository keeps track of my progress in "Deep Learning in Computer Vision"
  - Day16: [Data Augmentation](Homework/Day16.ipynb)
  - Day17&18: [VGG16](Homework/Day17%2618.ipynb)
  - Day19: [Inception](Homework/Day19.ipynb)
- - Day20: 
+ - Day20: [Residual Connections](Homework/Day20.ipynb)
 
