@@ -25,4 +25,6 @@ This repository keeps track of my progress in "Deep Learning in Computer Vision"
  - Day17&18: [VGG16](Homework/Day17%2618.ipynb)
  - Day19: [Inception](Homework/Day19.ipynb)
  - Day20: [Residual Connections](Homework/Day20.ipynb)
+ - Day21: [Transfer Learning](Homework/Day21.ipynb)
+ - Day22: [CAPTCHA Breaker](Homework/Day22.ipynb)
 
