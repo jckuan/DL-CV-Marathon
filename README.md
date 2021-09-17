@@ -28,7 +28,7 @@ This repository keeps track of my progress in "Deep Learning in Computer Vision"
  - Day21: [Transfer Learning](Homework/Day21.ipynb)
  - Day22: [CAPTCHA Breaker](Homework/Day22.ipynb)
 
-## Object Detection with YOLO
+## Object Detection
 
  - Day25: [](Homework/Day25.ipynb)
 
